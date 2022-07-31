@@ -63,5 +63,5 @@ movieSelect.addEventListener('change', e => {
     setMovieData(e.target.selectedIndex, e.target.value)
     updateSelectedCount();
 })
-//Initial count and Total price
+//Initial count and Total price 
 updateSelectedCount();
